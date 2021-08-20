@@ -1,0 +1,32 @@
+body{
+	margin: 50px;
+	padding-bottom: 50px;
+	font-family: helvetica;
+	
+
+
+}
+header{
+	background-color: white;
+	style;color: purple;
+	 
+}
+
+main{
+	margin: 0 auto;
+}
+main img{
+
+	background-color: purple;
+	border-radius: 150px;
+	width: 600px;
+	border: solid 10px
+
+	
+ 
+}
+
+h1, h2{
+font-family: blinker;
+font-size: 35px;
+}
